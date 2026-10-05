@@ -1,0 +1,13 @@
+C:\Users\alumno.ET26\Documents\TPIntegrador\TpIntegrador\bin\Debug\net9.0\TpIntegrador.deps.json
+C:\Users\alumno.ET26\Documents\TPIntegrador\TpIntegrador\bin\Debug\net9.0\TpIntegrador.runtimeconfig.json
+C:\Users\alumno.ET26\Documents\TPIntegrador\TpIntegrador\bin\Debug\net9.0\TpIntegrador.dll
+C:\Users\alumno.ET26\Documents\TPIntegrador\TpIntegrador\bin\Debug\net9.0\TpIntegrador.pdb
+C:\Users\alumno.ET26\Documents\TPIntegrador\TpIntegrador\obj\Debug\net9.0\TpIntegrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno.ET26\Documents\TPIntegrador\TpIntegrador\obj\Debug\net9.0\TpIntegrador.AssemblyInfoInputs.cache
+C:\Users\alumno.ET26\Documents\TPIntegrador\TpIntegrador\obj\Debug\net9.0\TpIntegrador.AssemblyInfo.cs
+C:\Users\alumno.ET26\Documents\TPIntegrador\TpIntegrador\obj\Debug\net9.0\TpIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\alumno.ET26\Documents\TPIntegrador\TpIntegrador\obj\Debug\net9.0\TpIntegrador.dll
+C:\Users\alumno.ET26\Documents\TPIntegrador\TpIntegrador\obj\Debug\net9.0\refint\TpIntegrador.dll
+C:\Users\alumno.ET26\Documents\TPIntegrador\TpIntegrador\obj\Debug\net9.0\TpIntegrador.pdb
+C:\Users\alumno.ET26\Documents\TPIntegrador\TpIntegrador\obj\Debug\net9.0\TpIntegrador.genruntimeconfig.cache
+C:\Users\alumno.ET26\Documents\TPIntegrador\TpIntegrador\obj\Debug\net9.0\ref\TpIntegrador.dll
